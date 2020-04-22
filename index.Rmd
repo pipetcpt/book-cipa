@@ -1,0 +1,15 @@
+--- 
+title: "의약품 심장독성 스크리닝 기술 동향 정보집"
+author: "가톨릭대학교 의과대학 임동석, 한승훈, 한성필"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: rstudio/bookdown-demo
+description: "This is a minimal example of using the bookdown package to write a book. The output format for this example is bookdown::gitbook."
+---
+
+# Prerequisites
