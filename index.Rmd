@@ -1,6 +1,6 @@
 --- 
 title: "의약품 심장독성 스크리닝"
-author: "가톨릭대학교 의과대학 임동석, 한승훈, 한성필"
+author: "임동석, 한승훈, 한성필"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
